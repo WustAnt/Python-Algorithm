@@ -27,3 +27,12 @@ class Deque:
 
     def size(self):
         return len(self.items)
+
+if __name__ == '__main__':
+    q  = Deque()
+    q.addRear(1)
+    q.addFront(2)
+    print(q.items)
+    print(q.size())
+    q.removeFront()
+    print(q.items)
