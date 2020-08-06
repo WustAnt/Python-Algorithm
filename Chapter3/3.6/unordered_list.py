@@ -168,21 +168,7 @@ class UnorderedList:
         return item
 
 
-if __name__ == '__main__':
-    l = [1,2]
-    l.pop()
-    mylist = UnorderedList()
-    # mylist.add(1)
-    # mylist.add(2)
-    # mylist.add(3)
-    # mylist.add(4)
-    # mylist.add(5)
-    print(mylist.item())
-    # mylist.append(6)
-    print(mylist.pop(1))
-    print(mylist.item())
-    # print(mylist.item())
-    # print(mylist.item())
+
 
 
 
