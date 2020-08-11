@@ -167,6 +167,9 @@ class UnorderedList:
             current = current.getNext()
         return item
 
+    def slice(self,start,stop):
+        "返回新列表[start,stop],不包含stop"
+
 
 
 
