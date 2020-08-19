@@ -4,7 +4,7 @@
 # @File    : printerTask.py
 # @Project : Python数据结构与算法分析
 
-from queue import Queue
+from queue1 import Queue
 import random
 from printer import Printer
 from task import Task

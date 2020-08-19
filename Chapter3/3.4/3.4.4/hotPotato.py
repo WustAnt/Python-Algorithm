@@ -10,7 +10,7 @@
 [3]随后这个孩子会一直等待，直到再次到达队列的头部，在出列入列Num次后，此时位于队列头部的孩子出局，新一轮游戏开始；
 [4]如此反复，直到队列只剩下一个名字
 """
-from queue import Queue
+from queue1 import Queue
 
 def hotPotato(namelist,num):
     """

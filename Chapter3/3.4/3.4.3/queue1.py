@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/8/4 8:55
 # @Author  : WuatAnt
-# @File    : queue.py
+# @File    : queue1.py
 # @Project : Python数据结构与算法分析
 
 class Queue:
